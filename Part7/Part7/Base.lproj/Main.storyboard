@@ -67,9 +67,9 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="ldb-kd-DP4"/>
                     <connections>
-                        <outlet property="TextField1" destination="Ymi-HD-cUY" id="tEM-Xb-ech"/>
-                        <outlet property="TextField2" destination="edT-6O-5qf" id="mTS-oo-QL5"/>
                         <outlet property="answerLabel" destination="7Oe-tS-JOK" id="bad-sg-LQG"/>
+                        <outlet property="textField1" destination="Ymi-HD-cUY" id="tEM-Xb-ech"/>
+                        <outlet property="textField2" destination="edT-6O-5qf" id="mTS-oo-QL5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PFt-N7-8a8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -117,9 +117,9 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="PEt-VU-b66"/>
                     <connections>
-                        <outlet property="TextField1" destination="Lye-Ha-YPw" id="MBh-ko-W4X"/>
-                        <outlet property="TextField2" destination="zhu-Sm-eXR" id="y8D-Ci-QvH"/>
                         <outlet property="answerLabel" destination="vCh-2y-I18" id="uzP-cS-Xb8"/>
+                        <outlet property="textField1" destination="Lye-Ha-YPw" id="MBh-ko-W4X"/>
+                        <outlet property="textField2" destination="zhu-Sm-eXR" id="y8D-Ci-QvH"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OL2-p9-p2a" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
